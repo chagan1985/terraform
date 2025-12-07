@@ -1,0 +1,7 @@
+# Credentials
+key
+
+# TF state files
+.terraform
+*.tfstate
+*.tfstate.backup
